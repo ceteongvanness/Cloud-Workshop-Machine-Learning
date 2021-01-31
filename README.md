@@ -1,1 +1,1 @@
-# Cloud-Workshop-Machine-Learning
+# Cloud Workshop Machine Learning
