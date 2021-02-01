@@ -1,5 +1,3 @@
-# Cloud Workshop Machine Learning
-
 # Machine Learning
 
 Trey Research is looking to provide the next generation experience for connected car manufacturers by enabling them to utilize AI to decide when to pro-actively reach out to the customer through alerts delivered directly to the car's in-dash information and entertainment head unit. For their proof-of-concept (PoC), they would like to focus on two maintenance related scenarios.
