@@ -23,11 +23,7 @@ In this workshop, you will gain a better understanding of how to combine Azure D
 
 At the end of this workshop, you will be able to design a solution better understanding the capabilities of leveraging the Azure Machine Learning service and Azure Databricks.
 
-### Whiteboard design session
 
-In this whiteboard design session, you will work with a group to design and implement a solution that combines Azure Databricks with Azure Machine Learning to build, train, and deploy machine learning and deep learning models. You will learn how to prepare data for training and use automated machine learning and model lifecycle management from training to deployment (in batch and real-time inferencing scenarios). You will also learn to build deep learning models for Natural Language Processing (NLP) in text classification and forecasting against time-series data and address the model interpretability problem. Finally, you will learn how to use MLflow for managing experiments run directly on the Azure Databricks cluster and how MLflow can seamlessly log metrics and training artifacts in your Azure Machine Learning workspace. In the process, you will also get to compare data with PyTorch and Keras for deep learning.
-
-At the end of this workshop, you will have a deeper understanding of the capabilities and implementation solutions when leveraging Azure Machine Learning and Azure Databricks.
 
 ### Hands-on lab
 
